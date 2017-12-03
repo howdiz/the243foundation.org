@@ -3,7 +3,7 @@
 //
 
 // ONLY in case AJAX DOESN'T work you may want to double-check this path:
-var sajax_uri = 'wp-content/plugins/cforms/lib_ajax.php';
+var sajax_uri = 'http://www.the243foundation.org/wp-content/plugins/cforms/lib_ajax.php';
 
 // if you do change the above: CLEAR your BROWSER CACHE & RESTART you BROWSER
 
